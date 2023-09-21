@@ -1,5 +1,9 @@
 # lab9.py
 # Celvis
+"""
+raft-small-words.txt
+Daniel Miessler: https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/raft-small-words.txt
+"""
 
 # Import
 import requests
