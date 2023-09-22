@@ -1,6 +1,6 @@
 # brute.py
 # Celvis
-# This is apart of lab9
+# This is apart of lab9 but this code specifically fetches the flag
 
 # Import
 import requests
