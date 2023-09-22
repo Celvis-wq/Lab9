@@ -3,7 +3,7 @@
 
 ## Purpose:
 
-- Just a class checkpoint, ICSI. lab9. Making web requests.
+- For a class flag along with lab. Lab9, flag ICSI.
 <br />
 
 ## FAQ:
